@@ -1,16 +1,22 @@
-# Internet-Draft Template Repository
+# Certificate Management over CMS (CMC)
 
-Use this repository as a template if you want to start working on
-[IETF](https://www.ietf.org/) documents.
+This is the working area for the IETF [LAMPS Working Group](http://datatracker.ietf.org/wg/lamps) Internet-Draft, "Certificate Management over CMS (CMC)".
 
-[Read the
-instructions](https://github.com/martinthomson/i-d-template/blob/main/doc/TEMPLATE.md)
-for more information.
+* [Editor's Copy](To Do)
+* [Working Group Draft](To DO)
 
-Once you have created your own repository, start work by:
+# Certificate Management over CMS (CMC): Transport Protocols
 
-1. Set "Workflow permissions" to "Read and write permissions"
-   [in the repository settings](../../settings/actions#actions_default_workflow_permissions_write).
+This is the working area for the IETF [LAMPS Working Group](http://datatracker.ietf.org/wg/lamps) Internet-Draft, "Certificate Management over CMS (CMC): Transport Protocols".
 
-2. Rename the `draft-todo-yourname-protocol.md` file
-   [here](../../edit/main/draft-todo-yourname-protocol.md).
+* [Editor's Copy](To Do)
+* [Working Group Draft](To DO)
+
+# Certificate Management Messages over CMS (CMC): Compliance Requirements
+
+This is the working area for the IETF [LAMPS Working Group](http://datatracker.ietf.org/wg/lamps) Internet-Draft, "Certificate Management Messages over CMS (CMC): Compliance Requirements".
+
+* [Editor's Copy](To Do)
+* [Working Group Draft](To DO)
+
+
