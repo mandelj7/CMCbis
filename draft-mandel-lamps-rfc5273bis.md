@@ -11,19 +11,19 @@ number:
 date:
 consensus: true
 v: 3
-area: SEC
-workgroup: LAMPS Working Group
+area: "Security"
+workgroup: "Limited Additional Mechanisms for PKIX and SMIME"
 keyword:
  - Public Key Infrastructure
  - Cryptographic Message Syntax
  - Certificate Management
  - Transport Protocols
 venue:
-  group: WG
-  type: LAMPS
-  mail: spasm@ietf.org
-  arch: https://mailarchive.ietf.org/arch/browse/spasm/
-  github: TBD
+  group: "Limited Additional Mechanisms for PKIX and SMIME"
+  type: "Working Group"
+  mail: "spasm@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/spasm/"
+  github: "mandelj7/CMCbis"
 
 author:
  -
