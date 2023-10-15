@@ -1,0 +1,111 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2023-10-15T00:37:47.928912+00:00",
+  "repo": "mandelj7/CMCbis",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOKfk1Lc5cqsvF",
+      "title": "Delete draft-mandel-lamps-rfc5272bis.md_copy",
+      "url": "https://github.com/mandelj7/CMCbis/pull/1",
+      "state": "MERGED",
+      "author": "mandelj7",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2023-10-12T18:58:28Z",
+      "updatedAt": "2023-10-12T19:03:21Z",
+      "baseRepository": "mandelj7/CMCbis",
+      "baseRefName": "main",
+      "baseRefOid": "37923f968e64e61a50523222274dd9ff6ebcb642",
+      "headRepository": "mandelj7/CMCbis",
+      "headRefName": "mandelj7-patch-1",
+      "headRefOid": "9958de91053f466a0ce9f03c67c785ae5ab67ee4",
+      "closedAt": "2023-10-12T19:03:21Z",
+      "mergedAt": "2023-10-12T19:03:21Z",
+      "mergedBy": "mandelj7",
+      "mergeCommit": {
+        "oid": "59cf036622f78827efc281979ccfaf1996e25e76"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOKfk1Lc5cq-6q",
+      "title": "Update Codeowners",
+      "url": "https://github.com/mandelj7/CMCbis/pull/2",
+      "state": "MERGED",
+      "author": "mandelj7",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2023-10-12T19:44:54Z",
+      "updatedAt": "2023-10-12T19:45:31Z",
+      "baseRepository": "mandelj7/CMCbis",
+      "baseRefName": "main",
+      "baseRefOid": "295705a6c39f3dad4b94983af79aa538c3c45cf0",
+      "headRepository": "mandelj7/CMCbis",
+      "headRefName": "Update-Codeowners",
+      "headRefOid": "33fd53f56472db4d6c9cbfdb590ba615b4f294dd",
+      "closedAt": "2023-10-12T19:45:31Z",
+      "mergedAt": "2023-10-12T19:45:31Z",
+      "mergedBy": "mandelj7",
+      "mergeCommit": {
+        "oid": "3f9d483448695dc923ec663b6c8af72c4551b2c4"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
